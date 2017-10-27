@@ -39,6 +39,7 @@
 		<p>
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
+		<P> This is a addtional line added by SAmal Dimdung </p>
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
